@@ -5,8 +5,7 @@ import {
     ShieldAlert, Package, Building, 
     History, FileText, List,
     ChevronDown, ChevronRight, Terminal,
-    ShieldCheck, Building2, UserCircle,
-    UsersPlus, Crown
+    ShieldCheck, Building2, UserCircle, Crown
 } from 'lucide-react';
 
 const Sidebar = ({ activeTab, setActiveTab }) => {
